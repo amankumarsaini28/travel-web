@@ -1,0 +1,14 @@
+{
+  "name": "@travel-web/reviews-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/app.ts"
+  },
+  "dependencies": {
+    "@travel-web/api-commons": "^1.0.0",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  }
+}

@@ -1,0 +1,9 @@
+subgraphs:
+  content:
+    routing_url: http://localhost:3001/graphql
+    schema:
+      file: ./content.graphql
+  reviews:
+    routing_url:  http://localhost:3002/graphql
+    schema:
+      file: ./reviews.graphql
