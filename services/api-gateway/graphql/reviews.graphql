@@ -1,0 +1,8 @@
+type Query {
+    getReviews: [Review]
+}
+
+type Review {
+    rating: Int
+    text: String
+}

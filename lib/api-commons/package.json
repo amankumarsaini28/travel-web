@@ -1,0 +1,17 @@
+{
+  "name": "@travel-web/api-commons",
+  "version": "1.0.0",
+  "main": "lib/server.ts",  
+  "license": "MIT",
+  "bin": {
+    "bootstrap-graph": "./bin/main.js"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "apollo-server-express": "^2.24.0",
+    "graphql": "^15.5.0",
+    "lerna": "^4.0.0",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  }
+}
