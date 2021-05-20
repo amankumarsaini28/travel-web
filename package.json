@@ -1,4 +1,5 @@
 {
   "name": "travel-web",
-  "private": true
+  "private": true,
+  "workspaces": ["packages/*"]
 }

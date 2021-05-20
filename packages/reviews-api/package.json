@@ -4,11 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "ts-node src/app.ts"
+    "start": "bootstrap-graph"
   },
   "dependencies": {
-    "@travel-web/api-commons": "^1.0.0",
-    "ts-node": "^9.1.1",
-    "typescript": "^4.2.4"
+    "@travel-web/api-commons": "*"
   }
 }
